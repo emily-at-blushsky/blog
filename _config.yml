@@ -1,0 +1,9 @@
+title: i am emily
+description: notes, moments, and things worth sharing
+url: "https://emily-at-blushsky.github.io"
+baseurl: "/blog"
+theme: minima
+author: Emily
+permalink: /:year/:month/:day/:title/
+minima:
+  skin: dark
